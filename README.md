@@ -1,6 +1,7 @@
 # square__me
 
-A new Flutter project.
+Flutter UI Conversion Test
+This Flutter project is designed to test the conversion of a user interface (UI) from one design to another. It serves as a simple demonstration of how to update the UI elements in a Flutter application.
 
 ## Getting Started
 
